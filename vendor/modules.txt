@@ -1,0 +1,9 @@
+# rogchap.com/v8go v0.6.0
+## explicit
+rogchap.com/v8go
+rogchap.com/v8go/deps/darwin_x86_64
+rogchap.com/v8go/deps/include
+rogchap.com/v8go/deps/include/cppgc
+rogchap.com/v8go/deps/include/libplatform
+rogchap.com/v8go/deps/linux_x86_64
+rogchap.com/v8go/deps/windows_x86_64
